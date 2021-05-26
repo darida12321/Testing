@@ -3,3 +3,6 @@ hi, second commit material
 A has modified this text
 B has too
 both have changed this
+C has modified this
+
+A added this
