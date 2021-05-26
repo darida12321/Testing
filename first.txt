@@ -2,3 +2,4 @@ hello, this is my first commit
 hi, second commit material
 A has modified this text
 B has too
+both have changed this
